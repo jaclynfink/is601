@@ -4,9 +4,9 @@ Linux commands:
 echo - print the entered text  
 touch - create a file  
 wc - (word count) counts lines, words, and bytes in a specified file  
-chmod - (change mode) change permissions on a file
-chown - (change owner) change ownership of a file
-curl - download or upload data using HTTP, HTTPS, FTP, and more
+chmod - (change mode) change permissions on a file  
+chown - (change owner) change ownership of a file  
+curl - download or upload data using HTTP, HTTPS, FTP, and more  
 ssh - connect to a server using Secure Shell protocol
 awk - used to split text file into fields and perform pattern searching
 grep - searches for regex pattern in text file
