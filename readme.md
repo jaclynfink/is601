@@ -6,6 +6,10 @@
     -e: allow escape sequences, meaning do not interpret the given sequence as literal text  
 **touch** - create a file  
 **wc** - (word count) counts lines, words, and bytes in a specified file  
+    -l: prints the number of lines  
+    -w: prints the number of words  
+    -c: prints the number of bytes  
+    -m: prints the number of characters  
 **chmod** - (change mode) change permissions on a file  
 **chown** - (change owner) change ownership of a file  
 **curl** - download or upload data using HTTP, HTTPS, FTP, and more  
