@@ -28,6 +28,10 @@
 **env** - display, create, or update environment variables  
 **which** - identify the location of a given executable file  
 **cat** - (concatenate) display file contents  
+    -n: add numbers to all lines of file  
+    -b: add numbers to only non-empty lines of file  
+    -E: add a $ character at the end of each line  
+    -T: add a ^I where tab characters are in file  
 **head -n**  - display the first n lines of a file  
 **sort** - print the sorted output of a file  
 
