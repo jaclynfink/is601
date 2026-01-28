@@ -11,6 +11,8 @@
 **curl** - download or upload data using HTTP, HTTPS, FTP, and more  
 **ssh** - connect to a server using Secure Shell protocol  
 **awk** - used to split text file into fields and perform pattern searching  
+    -F: specify the field separator for the given file  
+    -f: read awk program from the given file  
 **grep** - searches for regex pattern in text file  
     -c: print the count of matching lines  
     -l: print the file names with matches  
