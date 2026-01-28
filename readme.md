@@ -1,7 +1,7 @@
 Linux and Git Command Cheat Sheet
 
-Linux commands:
-echo - print the entered text
+Linux commands:  
+echo - print the entered text  
 touch - create a file
 wc - (word count) counts lines, words, and bytes in a specified file
 chmod - (change mode) change permissions on a file
