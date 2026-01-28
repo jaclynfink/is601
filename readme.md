@@ -2,6 +2,8 @@
 
 ## Linux commands:  
 **echo** - print the entered text  
+    -n: Do not add a newline character at the end  
+    -e: allow escape sequences, meaning do not interpret the given sequence as literal text  
 **touch** - create a file  
 **wc** - (word count) counts lines, words, and bytes in a specified file  
 **chmod** - (change mode) change permissions on a file  
