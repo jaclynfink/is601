@@ -1,6 +1,6 @@
-Linux and Git Command Cheat Sheet
+# Linux and Git Command Cheat Sheet
 
-Linux commands:  
+## Linux commands:  
 **echo** - print the entered text  
 **touch** - create a file  
 **wc** - (word count) counts lines, words, and bytes in a specified file  
@@ -19,7 +19,7 @@ Linux commands:
 
 
 
-Git commands:  
+## Git commands:  
 **git status** - displays the current state of the current branch of your working directory  
 **git init** - create a new Git repository  
 **git diff** - display unstaged changes  
