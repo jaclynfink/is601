@@ -12,6 +12,12 @@
 **ssh** - connect to a server using Secure Shell protocol  
 **awk** - used to split text file into fields and perform pattern searching  
 **grep** - searches for regex pattern in text file  
+    -c: print the count of matching lines  
+    -l: print the file names with matches  
+    -i: ignore case  
+    -r: recursively search the given directory  
+    -v: print lines that do not match  
+    -o: print only the matched part of the lines  
 **sed** - (stream editor) find, replace, insert, and delete lines in a text file  
 **env** - display, create, or update environment variables  
 **which** - identify the location of a given executable file  
