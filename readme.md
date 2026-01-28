@@ -10,9 +10,9 @@ curl - download or upload data using HTTP, HTTPS, FTP, and more
 ssh - connect to a server using Secure Shell protocol  
 awk - used to split text file into fields and perform pattern searching  
 grep - searches for regex pattern in text file  
-sed - (stream editor) find, replace, insert, and delete lines in a text file
-env - display, create, or update environment variables
-which - identify the location of a given executable file
+sed - (stream editor) find, replace, insert, and delete lines in a text file  
+env - display, create, or update environment variables  
+which - identify the location of a given executable file  
 cat - (concatenate) display file contents
 head -n  - display the first n lines of a file
 sort - print the sorted output of a file
